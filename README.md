@@ -12,4 +12,4 @@ c) x_dim the number of points between x_left and x_right. These points should be
 d) seed. A seed value for generating the sin waves. Giving the same seed should produce the same sin. 
 
 
-![alt text](https://raw.github.com/siyanLearner/NumpySineWave/NumpySineWave/numpysinewave.png)
+![show](https://github.com/siyanLearner/NumpySineWave/blob/master/numpysinewave.png)
